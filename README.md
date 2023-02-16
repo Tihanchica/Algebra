@@ -1,2 +1,4 @@
-# Algebra
-This is a sample repository to show how to screw up
+# parcijalni-ispit
+To start the project:
+   - run `node app.js` in your terminal
+   - go to `localhost:3000`
